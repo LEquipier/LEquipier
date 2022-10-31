@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LEquipier
 - 👀 I’m interested in mechine learning
-- 🌱 I’m currently learning ...
 - 📫 Connect with me by email: JacksonLiu1010@163.com
 
 <!---
